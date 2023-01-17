@@ -12,3 +12,9 @@ Rather than having to input the starting location and paste the destionation on 
 or seperate webpage, if this functions properly, it can save the extra steps. No need to open a new
 webpage, copy the destination address, type your starting location, and click search, all you need
 to do is input the destination address and the hard work will be done by this API : )
+
+## Goal:
+
+Learn, demonstrate, and hope a smarter person is able to take this idea and make it leagues better.
+If I happen to put all my eggs in the basket and produce a working final result, I hope it provides
+a convenience to its users : ).
