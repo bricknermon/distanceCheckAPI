@@ -37,7 +37,7 @@ if (mysqli_num_rows($result) > 0) {
 
 <head>
     <title>Quickest Route</title>
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCw6ji5YkCiJkI0Z8q6SZ_aAv49XygdLH0"></script>
     <script>
         function initMap() {
             var directionsService = new google.maps.DirectionsService();
