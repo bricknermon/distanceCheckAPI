@@ -18,3 +18,9 @@ to do is input the destination address and the hard work will be done by this AP
 Learn, demonstrate, and hope a smarter person is able to take this idea and make it leagues better.
 If I happen to put all my eggs in the basket and produce a working final result, I hope it provides
 a convenience to its users : ).
+
+
+## Updates:
+
+```1/18/23:``` Understanding and learning ways to hide API certificate. Looking to test functionality but
+first need to resolve hosting server deployment issue. Learning a lot : )
