@@ -23,4 +23,5 @@ a convenience to its users : ).
 ## Updates:
 
 ```1/18/23:``` Understanding and learning ways to hide API certificate. Looking to test functionality but
-first need to resolve hosting server deployment issue. Learning a lot : )
+first need to resolve hosting server deployment issue. Also looking into making this into an extension
+for web browsers as well. First need to finish this & learning a lot : ).
