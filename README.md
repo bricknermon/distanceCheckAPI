@@ -25,3 +25,10 @@ a convenience to its users : ).
 ```1/18/23:``` Understanding and learning ways to hide API certificate. Looking to test functionality but
 first need to resolve hosting server deployment issue. Also looking into making this into an extension
 for web browsers as well. First need to finish this & learning a lot : ).
+
+```1/22/23:``` I lied and decided to make this into a chrome extension. Touching up on QOL updates, but am happy with it actually working.
+(I hope to make the respository public, or have a chrome/browser extension download link available shortly)
+
+
+
+![CeGit3](https://user-images.githubusercontent.com/94518180/213937931-623a0662-7231-44ce-9fc0-feb2c7a093f5.PNG)
