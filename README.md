@@ -30,5 +30,6 @@ for web browsers as well. First need to finish this & learning a lot : ).
 (I hope to make the respository public, or have a chrome/browser extension download link available shortly)
 
 
+![CEGit1](https://user-images.githubusercontent.com/94518180/213937950-690c0ee4-0b5e-4cd9-a383-8c4b66ec1f93.PNG)
 
 ![CeGit3](https://user-images.githubusercontent.com/94518180/213937931-623a0662-7231-44ce-9fc0-feb2c7a093f5.PNG)
